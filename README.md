@@ -1,7 +1,7 @@
 # Bayesian Statistics for Data Science
 Instructor: Dr. Yuxiao Hung | https://www.linkedin.com/in/yuxiao-huang-a00b407a/
 
-# COURSE DESCRIPTION:
+## COURSE DESCRIPTION:
 This course is an introduction of Bayesian data analysis
 • Topics include parameter estimation (using formal analysis, grid approximation, and Markov
   chain Monte Carlo), hierarchical models, generalized linear models, JAGS, and Stan
@@ -10,7 +10,7 @@ This course is an introduction of Bayesian data analysis
 • This computational aspect will differentiate this course significantly from the Statistics department’s
   course in Bayesian Methods (STAT 6223)
 
-# LEARNING OBJECTIVES:
+## LEARNING OBJECTIVES:
 As a result of completing this course, students will be able to<br/>
 • use R, JAGS, and Stan to conduct Bayesian data analysis (parameter estimation, prediction,and model comparison)<br/>
 • evaluate Bayesian methods against other approaches on real-world data<br/>
@@ -18,5 +18,5 @@ As a result of completing this course, students will be able to<br/>
 • work both individually and as a team<br/>
 
 
-# Project:
+## Project:
 Final Project - Medical Cost Personal Datasets | Insurance Forecast by using Linear Regression
