@@ -6,10 +6,10 @@ This course is an introduction of Bayesian data analysis. Topics include paramet
 
 ## LEARNING OBJECTIVES:
 As a result of completing this course, students will be able to<br/>
-• use R, JAGS, and Stan to conduct Bayesian data analysis (parameter estimation, prediction,and model comparison)<br/>
-• evaluate Bayesian methods against other approaches on real-world data<br/>
-• write technical report and present the results<br/>
-• work both individually and as a team<br/>
+• Use R, JAGS, and Stan to conduct Bayesian data analysis (parameter estimation, prediction,and model comparison).<br/>
+• Evaluate Bayesian methods against other approaches on real-world data.<br/>
+• Write technical report and present the results.<br/>
+• Work both individually and as a team.<br/>
 
 
 ## Project:
