@@ -14,7 +14,6 @@ As a result of completing this course, students will be able to<br/>
 
 ## Final Project: Medical Cost Personal Datasets 
 Insurance Forecast by using Linear Regression and MCMC for Final Project for DATS 6450: Bayesian Statistics by Brent Skoumal (https://github.com/b-skoumal) & Prince Birring (https://github.com/princebirring)<br/>
-Dataset: https://www.kaggle.com/mirichoi0218/insurance/data
 
 ### Identify & Acquire
 Acceptable performance for this standard is based on how well you've applied specific learning goals within your deliverable. To review the full list of data science standards, see the course syllabus.
