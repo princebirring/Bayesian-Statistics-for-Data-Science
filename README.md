@@ -52,3 +52,6 @@ Acceptable performance for this standard is based on how well you've applied spe
 5. Create a list of recommendations and next steps based on your work.
 6. Frame your materials for a non-technical audience.
 7. Include an appendix with full technical details.
+
+## Prezi Presentation Link:
+https://prezi.com/icohm5c8pwce/insurance-forecast-by-using-linear-regression-and-mcmc/
