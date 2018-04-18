@@ -1,0 +1,25 @@
+digraph G {
+beta0;
+x1 [style=filled];
+x4 [style=filled];
+b3;
+noise;
+x2 [style=filled];
+b4;
+pred [shape=invtriangle];
+beta0 -> pred  [label=beta0];
+b2;
+b2 -> pred  [label=b];
+b4 -> pred  [label=b];
+b3 -> pred  [label=b];
+b1;
+b1 -> pred  [label=b];
+x2 -> pred  [label=x];
+x1 -> pred  [label=x];
+x4 -> pred  [label=x];
+x3 [style=filled];
+x3 -> pred  [label=x];
+y [style=filled];
+pred -> y  [label=mu];
+noise -> y  [label=tau];
+}
